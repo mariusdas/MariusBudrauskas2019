@@ -1,0 +1,6 @@
+C:\Users\Marius\source\repos\MariusBudrauskas2019\MariusBudrauskas2019\bin\Debug\MariusBudrauskas2019.exe.config
+C:\Users\Marius\source\repos\MariusBudrauskas2019\MariusBudrauskas2019\bin\Debug\MariusBudrauskas2019.exe
+C:\Users\Marius\source\repos\MariusBudrauskas2019\MariusBudrauskas2019\bin\Debug\MariusBudrauskas2019.pdb
+C:\Users\Marius\source\repos\MariusBudrauskas2019\MariusBudrauskas2019\obj\Debug\MariusBudrauskas2019.csproj.CoreCompileInputs.cache
+C:\Users\Marius\source\repos\MariusBudrauskas2019\MariusBudrauskas2019\obj\Debug\MariusBudrauskas2019.exe
+C:\Users\Marius\source\repos\MariusBudrauskas2019\MariusBudrauskas2019\obj\Debug\MariusBudrauskas2019.pdb
